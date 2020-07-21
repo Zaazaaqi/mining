@@ -1,2 +1,3 @@
-# mining
+# menambang
 MiningXMR
+#OLEH 
